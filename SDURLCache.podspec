@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
     s.summary        = "HTTP Request Cache."
     s.homepage       = "https://github.com/moming2k/SDURLCache"
     s.author         = { 'Chris Chan' => 'chrischan@igpsd.com' }
-    s.source         = { :git => 'https://github.com/moming2k/SDURLCache.git', :tag => "1.3" }
+    s.source         = { :git => 'https://github.com/moming2k/SDURLCache.git', :tag => "1.4" }
     s.platform       = :ios
     s.requires_arc   = true
     s.source_files   = 'SDURLCache.*','SDCachedURLResponse.*'
