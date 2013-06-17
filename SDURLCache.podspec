@@ -6,7 +6,6 @@ Pod::Spec.new do |s|
     s.author         = { 'Chris Chan' => 'chrischan@igpsd.com' }
     s.source         = { :git => 'https://github.com/moming2k/SDURLCache.git', :tag => "1.5" }
     s.platform       = :ios
-    s.requires_arc   = true
     s.source_files   = 'SDURLCache.*','SDCachedURLResponse.*'
     s.license        = 'as-is'
 end
